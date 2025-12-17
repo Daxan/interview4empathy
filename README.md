@@ -5,7 +5,7 @@ Empathy Interview Pipeline
 
 This Streamlit application provides a **single interface** for the complete empathy-interview workflow:
 
-1. **Stage 1** – Upload filled Word interview sheets → extract raw quotes  
+1. **Stage 1** – Upload filled Word interview sheets (/data) → extract raw quotes  
 2. **Stage 2** – Code quotes using a learning-adapted empathy map (dropdown-based)  
 3. **Stage 3** – Synthesize empathy maps → export summary CSV, combined Excel, and optional PDF
 
